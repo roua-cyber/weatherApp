@@ -2,7 +2,7 @@
 
 ### this APP
 
-### Dispalys bar chart that displays all forecasts (5 days)
+### Dispalys line chart that displays all forecasts (5 days)
 ### Displays 3 cards, the center card being for today's forecast
 
 ### You can
