@@ -5,7 +5,7 @@
 ### Dispalys bar chart that displays all forecasts (5 days)
 ### Displays 3 cards, the center card being for today's forecast
 
-###You can
+### You can
 
 ### Navigate between the 5 days by clicking on right & left arrows
 ### Search the weather forecast by city, Tunis being the default
