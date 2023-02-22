@@ -10,7 +10,6 @@
 ### Navigate between the 5 days by clicking on right & left arrows
 ### Search the weather forecast by city, Tunis being the default
 ### Switch between temperature units (celsius & Fahrenheit, celsius being the default)
-### Dispalys bar chart that displays all forecasts (5 days)
 
 ### Tools
 
