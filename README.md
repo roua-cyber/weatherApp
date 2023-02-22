@@ -1,5 +1,4 @@
 #WeatherApp
-![Test Image 1](https://github.com/roua-cyber/weatherApp/blob/main/img1.png)
 
 ### this APP
 
@@ -18,3 +17,5 @@
 ### React, Redux, Typescript, material-ui
 ### Api: Axios, OpenWeatherMap API
 ### Testing: react testing library & MSW (Mock Service Worker) for mocking the API
+
+![Test Image 1](https://github.com/roua-cyber/weatherApp/blob/main/img1.png)
